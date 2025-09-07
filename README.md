@@ -4,12 +4,16 @@
 <img src="assets/kana.png" width="1000" />
 
 ### about me
-- i like to learn stuff, as long as it interests me
-- proficient in high-level, currently learning low-level
-- likes to tinker around things
-- knows a bit of cybersecurity (and IT related)
+- i like to learn stuff
+- proficient in high-level, learning low-level
+- knows a bit of anything IT related
 - plays games occasionally (minecraft, terraria, l4d2, and single player games)
 - mods games (altho i never actually publish them)
+
+### socials
+- [discord](https://discord.com/users/934336760157192242)
+- [facebook](https://www.facebook.com/ruriyoshinova)
+- [instagram](https://www.instagram.com/ruri.dll/)
 
 ### some stuff
 <details>
