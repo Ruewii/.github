@@ -1,7 +1,7 @@
 ### 💫 [heya! i'm ruri](https://github.com/Ruewii)
 <i>learning the fundamentals of everything</i>
 
-<img src="assets/kana.png" width="1000" />
+<img src="profile/assets/kana.png" width="1000" />
 
 ### about me
 - i like to learn stuff
